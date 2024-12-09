@@ -1,0 +1,4 @@
+﻿  Shooter_Game.cpp
+C:\Programing\Shooter_Game\Shooter_Game\Shooter_Game.cpp(126,49): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Programing\Shooter_Game\Shooter_Game\Shooter_Game.cpp(133,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Shooter_Game.vcxproj -> C:\Programing\Shooter_Game\x64\Debug\Shooter_Game.exe
